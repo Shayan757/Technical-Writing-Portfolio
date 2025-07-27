@@ -1,6 +1,6 @@
 # How to Connect Vue.js with REST APIs via Axios
 
-![Axios in Vue](../assets/consume_rest_api_vue_js.png)
+![Axios in Vue](../assets/consume rest api vue js.png)
 
 ## 📘 Introduction
 
